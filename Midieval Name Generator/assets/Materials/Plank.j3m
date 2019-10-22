@@ -1,0 +1,7 @@
+Material Plank : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        ColorMap : Flip Textures/Plank.png
+     }
+    AdditionalRenderState {
+    }
+}
